@@ -1,0 +1,26 @@
+{
+  "name": "open-text-editor",
+  "version": "1.0.0",
+  "description": "Opens a file in a text editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gimenete/open-text-editor.git"
+  },
+  "keywords": [
+    "open",
+    "editor"
+  ],
+  "author": "Alberto Gimeno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gimenete/open-text-editor/issues"
+  },
+  "homepage": "https://github.com/gimenete/open-text-editor",
+  "dependencies": {
+    "osenv": "^0.1.0"
+  }
+}
